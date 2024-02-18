@@ -1,4 +1,4 @@
-# Power-bi-HR-ANALYTIC-DASHBOARD
+# HR-ANALYTIC-DASHBOARD   Power-bi
 
 ## Overview
 My HR Analytics Dashboard in Power BI is a game-changer for workforce insights, offering comprehensive insights and strategic decision support.
