@@ -2,6 +2,7 @@
 
 ## Overview
 My HR Analytics Dashboard in Power BI is a game-changer for workforce insights, offering comprehensive insights and strategic decision support.
+![HR dashboard](https://github.com/pradhyum98/Power-bi-HR-ANALYTIC-DASHBOARD/assets/73133235/6c136c0c-9cfe-4efc-afca-bce39268751b)
 
 ## Key Features
 - **Comprehensive Insights:** Consolidates data from performance, recruitment, training, and retention for a holistic view.
@@ -12,5 +13,4 @@ My HR Analytics Dashboard in Power BI is a game-changer for workforce insights, 
 
 ## Next Steps
 I'm excited to leverage this HR Analytics Dashboard to drive actionable insights and contribute to the success of our organization!
-![HR dashboard](https://github.com/pradhyum98/Power-bi-HR-ANALYTIC-DASHBOARD/assets/73133235/6c136c0c-9cfe-4efc-afca-bce39268751b)
 
